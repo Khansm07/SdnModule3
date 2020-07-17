@@ -1,0 +1,1 @@
+,si,si-VirtualBox,02.07.2020 20:01,file:///home/si/.config/libreoffice/4;
